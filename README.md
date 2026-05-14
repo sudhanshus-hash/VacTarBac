@@ -12,6 +12,8 @@ Nagpal, G., Usmani, S. S., & Raghava, G. P. S. (2018).
 **A Web Resource for Designing Subunit Vaccine Against Major Pathogenic Species of Bacteria.**
 *Frontiers in Immunology*, 9:2280.
 [https://doi.org/10.3389/fimmu.2018.02280](https://doi.org/10.3389/fimmu.2018.02280)
+
+
 This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20052782
 
 
